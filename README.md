@@ -4,7 +4,6 @@
 
 [![React](https://img.shields.io/badge/React-18-61dafb?logo=react)](https://react.dev)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-orange)](https://anthropic.com)
-<!-- [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE) -->
 [![Dataset](https://img.shields.io/badge/Dataset-Olist%20E--Commerce-blue)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ---
